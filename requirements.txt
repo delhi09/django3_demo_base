@@ -1,0 +1,6 @@
+django
+mysqlclient
+flake8
+black
+isort[pyproject]
+django-debug-toolbar
