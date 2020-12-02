@@ -1,0 +1,2 @@
+# django3_demo_base
+Django3系の技術検証用のベースリポジトリ
